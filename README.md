@@ -1,4 +1,4 @@
- #RSA Algorithm in Cryptography
+ # RSA Algorithm in Cryptography
 
 I developed this project for Discrete math course in second term of University. I used C programing language with graphic.h library. 
 
